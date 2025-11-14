@@ -1,0 +1,14 @@
+[
+  {
+    "Descricao": "Problema do caixeiro viajante \nEncontrar a rota minima visitando todas as cidades",
+    "RespostaCorreta": "I"
+  },
+  {
+    "Descricao": "Multiplicacao de dois numeros \nCalcular o produto de dois numeros inteiros",
+    "RespostaCorreta": "T"
+  },
+  {
+    "Descricao": "O problema da parada \nDeterminar se um programa qualquer para ou continua rodando",
+    "RespostaCorreta": "N"
+  }
+]
